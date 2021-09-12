@@ -1,10 +1,12 @@
-// implicit conversion
-// explicit conversion(type casting) => cast notation,Function notation, type conversion operators
+/*
+ implicit conversion
+ explicit conversion(type casting) => cast notation,Function notation, type conversion operators
 
-// DATA LOSS DURING CONVERSION
-// data loss increases while converting from larger data type to smaller data type
-// long double->double->float->long->int->short->char => data loss increases
-// char->short->int->long->float->double->long double => no data loss
+ DATA LOSS DURING CONVERSION
+ data loss increases while converting from larger data type to smaller data type
+ long double->double->float->long->int->short->char => data loss increases
+ char->short->int->long->float->double->long double => no data loss
+*/
 
 #include <iostream>
 
