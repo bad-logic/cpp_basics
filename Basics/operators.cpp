@@ -28,7 +28,7 @@
 
 /*  LOGICAL OPERATORS
     Logical AND &&
-    Logical OP ||
+    Logical OR ||
     Logical  NOT !
 */
 
