@@ -2,7 +2,7 @@ C PLUS PLUS
 
 COMPILING\
 C => gcc -o io io.cpp && ./io\
-C++ => g++ -o io io.cpp && ./io\
+C++ => g++ -o io io.cpp && ./io
 
 BASICS\
 FLOW CONTROL\
