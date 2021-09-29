@@ -6,7 +6,7 @@
     };
     class access modifiers
     public: accessbile from anywhere
-    private: accessible from within the class
+    private(default): accessible from within the class and by friend functions and friend classes
     protected: accessed from within and derived class
 
     Specifiers |	Same Class     |  Derived Class | Outside Class
